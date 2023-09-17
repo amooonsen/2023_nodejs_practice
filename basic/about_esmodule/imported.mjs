@@ -8,4 +8,4 @@ const checkOddEven = () => {
  * default export
  * export.defaults와 같다.
  */
-// export default checkOddEven
+export default checkOddEven
